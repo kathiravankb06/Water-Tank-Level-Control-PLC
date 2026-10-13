@@ -1,0 +1,10 @@
+# CODESYS generated files
+*.compileinfo
+*.bootinfo
+*.opt
+*.backup
+*_Build/
+*.tmp
+~$*
+Thumbs.db
+.DS_Store
